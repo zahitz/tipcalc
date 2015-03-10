@@ -1,2 +1,2 @@
-# tipcalc
-Tip calculator app for android
+# Tip calculator
+Tip calculator (12%) app for android
